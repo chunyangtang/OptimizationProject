@@ -1,0 +1,9 @@
+Number of Runs: 20
+Best Distance: 473.191
+Worst Distance: 522.448
+Average Distance: 500.869
+Distance Variance: 192.908
+Best Time: 16.4983
+Worst Time: 20.0337
+Average Time: 17.6074
+Time Variance: 0.953287

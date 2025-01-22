@@ -1,0 +1,8 @@
+Differential Evolution Optimization Statistics
+Number of Runs: 20
+Best Fitness: 2.90534
+Worst Fitness: 9.73298
+Average Fitness: 4.86802
+Standard Deviation: 1.66177
+Average Time(s): 0.000324469
+Time Standard Deviation(s): 1.15785e-05
